@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;Generic_script&apos; to &apos;genericscript&apos;&#x0D;&#x0A;- Original project: &apos;Hybridframe&apos;&#x0D;&#x0A;- Original element: &apos;Hybridframe/src/Generic_script&apos;&#x0D;&#x0A;- Renamed element: &apos;Hybridframe/src/genericscript&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;Generic_script&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;Generic_script" name="genericscript" qualified="false" references="true" stamp="1727688134208" textual="false" version="1.0"/>
+</session>

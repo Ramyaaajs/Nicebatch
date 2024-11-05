@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;Generic_scriptinTESTNG&apos; to &apos;Frameworks/src&apos;&#x0D;&#x0A;- Original project: &apos;Nipa_cart&apos;&#x0D;&#x0A;- Destination element: &apos;Frameworks/src&apos;&#x0D;&#x0A;- Original element: &apos;Nipa_cart/src/Generic_scriptinTESTNG&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=Frameworks/src" element1="/src&lt;Generic_scriptinTESTNG" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1727263345914" version="1.0"/>
+</session>

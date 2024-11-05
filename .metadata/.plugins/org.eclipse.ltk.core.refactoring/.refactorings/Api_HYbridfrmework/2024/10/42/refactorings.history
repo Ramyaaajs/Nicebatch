@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;utils.Propertiesfiles_script&apos; to &apos;Getproperties&apos;&#x0D;&#x0A;- Original project: &apos;Api_HYbridfrmework&apos;&#x0D;&#x0A;- Original element: &apos;utils.Propertiesfiles_script&apos;&#x0D;&#x0A;- Renamed element: &apos;utils.Getproperties&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Propertiesfiles_script&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;utils{Propertiesfiles_script.java[Propertiesfiles_script" matchStrategy="1" name="Getproperties" qualified="false" references="true" similarDeclarations="false" stamp="1729053354270" textual="false" version="1.0"/>
+</session>

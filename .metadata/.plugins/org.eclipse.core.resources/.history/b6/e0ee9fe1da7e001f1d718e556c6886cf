@@ -1,0 +1,13 @@
+package api1;
+
+import io.restassured.RestAssured;
+
+public class Get
+{
+	public static void main(String[] args) 
+	{
+		RestAssured.baseURI="https://reqres.in/";
+
+	}
+
+}

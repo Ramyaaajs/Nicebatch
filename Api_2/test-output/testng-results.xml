@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-23T11:10:15 IST" name="Default suite" finished-at="2024-10-23T11:10:24 IST" duration-ms="8795">
+    <groups>
+    </groups>
+    <test started-at="2024-10-23T11:10:15 IST" name="Default test" finished-at="2024-10-23T11:10:24 IST" duration-ms="8795">
+      <class name="Pojomockapi.Runnerclass">
+        <test-method signature="get()[pri:0, instance:Pojomockapi.Runnerclass@6c1a5b54]" started-at="2024-10-23T11:10:16 IST" name="get" finished-at="2024-10-23T11:10:24 IST" duration-ms="8575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+      </class> <!-- Pojomockapi.Runnerclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

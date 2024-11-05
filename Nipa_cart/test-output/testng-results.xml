@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-25T16:45:09 IST" name="Default suite" finished-at="2024-09-25T16:45:22 IST" duration-ms="12517">
+    <groups>
+    </groups>
+    <test started-at="2024-09-25T16:45:09 IST" name="Default test" finished-at="2024-09-25T16:45:22 IST" duration-ms="12517">
+      <class name="Generic_scriptinTESTNG.Runnerscript">
+        <test-method is-config="true" signature="openapp()[pri:0, instance:Generic_scriptinTESTNG.Runnerscript@53fdffa1]" started-at="2024-09-25T16:45:10 IST" name="openapp" finished-at="2024-09-25T16:45:19 IST" duration-ms="9490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method signature="runscript()[pri:0, instance:Generic_scriptinTESTNG.Runnerscript@53fdffa1]" started-at="2024-09-25T16:45:19 IST" name="runscript" finished-at="2024-09-25T16:45:21 IST" duration-ms="1459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runscript -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:Generic_scriptinTESTNG.Runnerscript@53fdffa1]" started-at="2024-09-25T16:45:21 IST" name="closeapp" finished-at="2024-09-25T16:45:22 IST" duration-ms="1442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- Generic_scriptinTESTNG.Runnerscript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

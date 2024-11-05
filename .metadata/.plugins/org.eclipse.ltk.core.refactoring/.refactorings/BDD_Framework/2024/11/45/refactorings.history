@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;runnerSCRIPT&apos; to &apos;src&apos;&#x0D;&#x0A;- Original project: &apos;BDD_Framework&apos;&#x0D;&#x0A;- Destination element: &apos;src&apos;&#x0D;&#x0A;- Original element: &apos;BDD_Framework/src/test/java/runnerSCRIPT&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" element1="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;runnerSCRIPT" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1730715174298" target="src" version="1.0"/>
+</session>
